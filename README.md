@@ -1,5 +1,4 @@
 # Portifolio
-Portfolio of Projects made by Henrique da Rosa Galeski
     
 <p align="center">
   <img src="capa.png" width=2000>
