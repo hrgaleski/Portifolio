@@ -9,7 +9,7 @@ Portfolio of Projects made by Henrique da Rosa Galeski
 
 <sub>Chemical Engineer, Master's student in mechanical engineering, saxisophonist and enthusiast for learning about Machine Learning, Deep Learning, AI and Data Science, using this knowledge to drive innovation in project development and optimize existing solutions, as well as for use in an academic career.</sub>
 
-st.markdown("**[LinkedIn/HenriqueGaleski](www.linkedin.com/in/henriquegaleski)**")   
+"**[LinkedIn/HenriqueGaleski](www.linkedin.com/in/henriquegaleski)**" 
 
 ---
 ## Projects:  
